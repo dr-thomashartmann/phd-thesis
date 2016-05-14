@@ -1,7 +1,0 @@
-	?subject a ?conceptVariable .
-			
-	?broaderNarrowerVariable
-			
-	FILTER ( ?subject != ?X ) .
-	FILTER ( ?subject != ?Y ) .
-	FILTER ( ?X != ?Y ) .

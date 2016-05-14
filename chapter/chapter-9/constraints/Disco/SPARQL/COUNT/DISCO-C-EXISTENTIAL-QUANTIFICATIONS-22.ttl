@@ -1,4 +1,0 @@
-?subject a disco:DataFile .
-
-OPTIONAL { ?subject dcterms:subject ?subject . }
-FILTER ( ! BOUND( ?subject ) ) .

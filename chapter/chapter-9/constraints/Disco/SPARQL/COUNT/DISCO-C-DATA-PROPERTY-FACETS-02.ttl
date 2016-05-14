@@ -1,4 +1,0 @@
-?subject 
-    a disco:Study ;
-    dcterms:abstract ?abstract .
-FILTER ( fn:string-length ( ?abstract ) < 10 ) . 

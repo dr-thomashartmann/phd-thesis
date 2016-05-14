@@ -1,4 +1,0 @@
-    ?subject 
-        a qb:Observation ;
-        qb:dataSet ?dataSet , ?ds .
-    FILTER ( ?dataSet != ?ds ) .

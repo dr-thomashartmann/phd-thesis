@@ -1,3 +1,0 @@
-	?hierarchy a qb:HierarchicalCodeList ;
-        qb:parentChildProperty ?subject .
-    FILTER ( isIRI( ?subject ) ) .

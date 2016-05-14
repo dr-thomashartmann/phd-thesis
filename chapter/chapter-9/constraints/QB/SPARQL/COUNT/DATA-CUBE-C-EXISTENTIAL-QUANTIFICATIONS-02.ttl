@@ -1,3 +1,0 @@
-	?subject a qb:DimensionProperty ;
-        rdfs:range skos:Concept .
-    FILTER NOT EXISTS { ?subject qb:codeList [] . }

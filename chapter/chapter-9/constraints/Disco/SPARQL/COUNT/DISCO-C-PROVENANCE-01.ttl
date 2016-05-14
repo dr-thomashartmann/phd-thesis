@@ -1,4 +1,0 @@
-?subject a disco:StudyGroup .
-
-OPTIONAL { ?subject dcterms:provenance ?provenance . }
-FILTER ( ! BOUND( ?provenance ) ) .

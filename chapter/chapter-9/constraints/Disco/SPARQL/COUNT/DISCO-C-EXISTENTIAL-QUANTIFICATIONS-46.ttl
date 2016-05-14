@@ -1,4 +1,0 @@
-?subject a disco:Variable . 
-
-OPTIONAL { ?subject disco:representation ?representation . }
-FILTER ( ! BOUND( ?representation ) ) .

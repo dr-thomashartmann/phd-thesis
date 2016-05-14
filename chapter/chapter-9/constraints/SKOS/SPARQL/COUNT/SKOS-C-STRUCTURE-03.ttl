@@ -1,3 +1,0 @@
-	{ { ?subject skos:broader ?a . ?a skos:broader ?subject . } UNION { ?subject skos:broader ?a . ?a skos:broader ?b . ?b skos:broader ?subject . } }
-	UNION 
-	{ { ?subject skos:broader ?a . ?a skos:broader ?b . ?b skos:broader ?c . ?c skos:broader ?subject . } UNION { ?subject skos:broader ?a . ?a skos:broader ?b . ?b skos:broader ?c . ?c skos:broader ?d . ?d skos:broader ?subject . } }

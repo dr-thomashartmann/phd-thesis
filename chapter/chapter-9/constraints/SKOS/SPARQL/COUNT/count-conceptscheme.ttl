@@ -1,2 +1,0 @@
-#	?subject a [ rdfs:subClassOf* skos:ConceptScheme ]
-    ?subject a skos:ConceptScheme .

@@ -1,2 +1,0 @@
-#	?subject a [ rdfs:subClassOf* qb:DataSet ] .
-	?subject a qb:DataSet .

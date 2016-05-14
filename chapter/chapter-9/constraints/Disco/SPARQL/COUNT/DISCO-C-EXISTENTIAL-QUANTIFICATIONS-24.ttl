@@ -1,4 +1,0 @@
-?subject a disco:Study .
-
-OPTIONAL { ?subject dcterms:creator ?creator . }
-FILTER ( ! BOUND( ?creator ) ) .

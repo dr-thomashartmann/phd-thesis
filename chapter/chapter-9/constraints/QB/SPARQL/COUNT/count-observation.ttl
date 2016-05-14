@@ -1,2 +1,0 @@
-#	?subject a [ rdfs:subClassOf* qb:Observation ] .
-	?subject a qb:Observation .

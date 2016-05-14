@@ -1,5 +1,0 @@
-SELECT ?subject
-WHERE
-{ 
-	?subject a qb:DataSet .
-}

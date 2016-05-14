@@ -1,4 +1,0 @@
-?subject a disco:SummaryStatistics .
-
-OPTIONAL { ?subject disco:statisticsVariable ?variable . }
-FILTER ( ! BOUND( ?variable ) ) .

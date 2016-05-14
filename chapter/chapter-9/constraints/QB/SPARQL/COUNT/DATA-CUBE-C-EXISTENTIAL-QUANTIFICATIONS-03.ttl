@@ -1,2 +1,0 @@
-	?subject a qb:DataStructureDefinition .
-    FILTER NOT EXISTS { ?subject qb:component [ qb:componentProperty [ a qb:MeasureProperty ] ] . }

@@ -1,4 +1,0 @@
-	FILTER NOT EXISTS {
-		?subject ?p ?l .
-		FILTER ( ( LANG ( ?l ) ) = "en" ) .
-	}

@@ -1,4 +1,0 @@
-?subject disco:summaryStatisticType ?concept .
-
-OPTIONAL { ?concept skos:inScheme ?summaryStatisticType . FILTER ( ?summaryStatisticType = ddicv:SummaryStatisticType ) . }
-FILTER ( ! BOUND( ?summaryStatisticType ) ) .
