@@ -25,7 +25,11 @@
 ---
 
 ***RDF Validation Requirements Database***
-* [http://purl.org/net/rdf-validation](http://purl.org/net/rdf-validation)
+* official URL: [http://purl.org/net/rdf-validation](http://purl.org/net/rdf-validation)
+* XML dumps: 
+    * [case studies](http://archive.kaiec.net/2017/rdf-validation/case_studies.xml)
+    * [use cases](http://archive.kaiec.net/2017/rdf-validation/use_cases.xml)
+    * [requirements](http://archive.kaiec.net/2017/rdf-validation/requirements.xml)
 
 ***Validation Environment***
 * Demo: [http://purl.org/net/rdfval-demo](http://purl.org/net/rdfval-demo)
