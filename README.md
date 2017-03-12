@@ -26,6 +26,7 @@
 
 ***RDF Validation Requirements Database***
 * official URL: [http://purl.org/net/rdf-validation](http://purl.org/net/rdf-validation)
+* Drupal source code and database dump: [https://github.com/dcmi/reqbase](https://github.com/dcmi/reqbase)
 * XML dumps: 
     * [case studies](http://archive.kaiec.net/2017/rdf-validation/case_studies.xml)
     * [use cases](http://archive.kaiec.net/2017/rdf-validation/use_cases.xml)
